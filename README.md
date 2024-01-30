@@ -9,11 +9,6 @@ A simple weather forecast application built with HTML, CSS, and JavaScript. This
 - [Features](#features)
 - [Usage](#usage)
 - [Getting Started](#getting-started)
-- [API Key](#api-key)
-- [Contributing](#contributing)
-- [License](#license)
-
-
 
 ## Features
 
