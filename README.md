@@ -1,5 +1,4 @@
 # Weather-app
-# Weather Forecast App
 
 A simple weather forecast application built with HTML, CSS, and JavaScript. This app allows users to check the current weather conditions for a specific location.
 
